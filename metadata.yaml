@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/840
     wikipedia: http://en.wikipedia.org/wiki/Emma_Goldman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43490#The-Social-Significance-of-the-Modern-Drama
 gutenberg_issued: '2013-08-17'
 gutenberg_type: Text
 identifiers:
