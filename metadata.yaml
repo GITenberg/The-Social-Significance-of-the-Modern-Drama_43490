@@ -1,0 +1,29 @@
+_repo: The-Social-Significance-of-the-Modern-Drama_43490
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43490-h/images/coversmall.jpg
+creator:
+  author:
+    agent_name: Goldman, Emma
+    birthdate: 1869
+    deathdate: 1940
+    gutenberg_agent_id: '840'
+    url: http://www.gutenberg.org/2009/agents/840
+    wikipedia: http://en.wikipedia.org/wiki/Emma_Goldman
+description: ''
+gutenberg_issued: '2013-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43490'
+  lccn: '14009298'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drama -- Social aspects'
+- !lcc 'PN'
+- !lcsh 'European drama -- History and criticism'
+title: The Social Significance of the Modern Drama
+url: http://www.gutenberg.org/ebooks/43490
